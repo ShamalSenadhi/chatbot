@@ -193,8 +193,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - FAISS for efficient vector search
 - The Open University of Sri Lanka for the project inspiration
 
-## Contact
 
-- Student ID: 620269587
-- Name: M.A.S.Senadhi
-- Course: EEX7340 AI Techniques and Agent Technology
