@@ -1,0 +1,14 @@
+libmagic-dev
+libmagic1
+python3-magic
+libxml2-dev
+libxslt1-dev
+zlib1g-dev
+libjpeg-dev
+libpng-dev
+libwebp-dev
+libopenjp2-7-dev
+libtiff5-dev
+libffi-dev
+libssl-dev
+build-essential
