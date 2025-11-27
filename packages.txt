@@ -12,3 +12,4 @@ libtiff5-dev
 libffi-dev
 libssl-dev
 build-essential
+HuggingFaceEmbeddings
