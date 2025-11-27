@@ -4,7 +4,7 @@ import pickle
 import time
 import faiss
 from sentence_transformers import SentenceTransformer
-from langchain.embeddings import HuggingFaceEmbeddings
+
 from langchain.vectorstores import FAISS
 from langchain.document_loaders import UnstructuredURLLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
